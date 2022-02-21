@@ -33,5 +33,5 @@
 <p align="center">
     ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 𝐕𝐢𝐚 𝐓𝐠 𝐁𝐨𝐭 🚀
 
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=cmFrZXNoeXQvSGFja2VyTXVzaWMgbWFpbg"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=QmlsbHViYWJhL1Nha3RpTWFuRmFuc2NsdWJtdXNpYyBtYWlu"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
