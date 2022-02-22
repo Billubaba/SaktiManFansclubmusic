@@ -39,8 +39,8 @@ async def start_(client: Client, message: Message):
 💥 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 𝙎𝙪𝙥𝙚𝙧 𝙁𝙖𝙨𝙩 𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮𝙚𝙧
 𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : [𝙎𝙁𝘾 𝗧𝗘𝗔𝗠](https://t.me/RYMOFFICIAL)
-┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 : [𝙎𝙁𝘾🇮🇳𝙎𝙪𝙥𝙥𝙤𝙧𝙩](https://t.me/JaiHindChatting)
+┣★ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : [𝙎𝙁𝘾 𝗧𝗘𝗔𝗠](https://t.me/ShaktimanFansclubSupport)
+┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 : [𝙎𝙁𝘾🇮🇳𝙎𝙪𝙥𝙥𝙤𝙧𝙩](https://t.me/ShaktimanFansclubSupport)
 ┣★ 𝙎𝙤𝙪𝙧𝙘𝙚 : [𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲](https://t.me/Jack_Legend2)
 ┗━━━━━━━━━━━━━━━━━┛
 
@@ -66,7 +66,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 𝙅𝙤𝙞𝙣 𝙃𝙚𝙧𝙚 𝘼𝙣𝙙 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 💞", url=f"https://t.me/jaihindchatting")
+                        "💥 𝙅𝙤𝙞𝙣 𝙃𝙚𝙧𝙚 𝘼𝙣𝙙 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 💞", url=f"https://t.me/ShaktimanFansclubSupport")
                 ]
             ]
         ),
@@ -82,7 +82,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "😆 𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙏𝙤 𝙂𝙚𝙩 𝙍𝙚𝙥𝙤 😆", url=f"https://t.me/jaihindchatting")
+                        "😆 𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙏𝙤 𝙂𝙚𝙩 𝙍𝙚𝙥𝙤 😆", url=f"https://t.me/Jack_Legend2")
                 ]
             ]
         ),
